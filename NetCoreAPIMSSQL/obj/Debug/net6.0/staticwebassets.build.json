@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "f6pAu3/lDRpIRudS+HzSreH+hYc6YG16kycGMo3ozYY=",
+  "Source": "NetCoreAPIMSSQL",
+  "BasePath": "_content/NetCoreAPIMSSQL",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

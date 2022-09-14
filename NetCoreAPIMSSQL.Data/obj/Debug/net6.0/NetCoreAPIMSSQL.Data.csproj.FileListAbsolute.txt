@@ -1,0 +1,15 @@
+C:\Users\pc\source\repos\NetCoreAPIMSSQL\NetCoreAPIMSSQL.Data\bin\Debug\net6.0\NetCoreAPIMSSQL.Data.deps.json
+C:\Users\pc\source\repos\NetCoreAPIMSSQL\NetCoreAPIMSSQL.Data\bin\Debug\net6.0\NetCoreAPIMSSQL.Data.dll
+C:\Users\pc\source\repos\NetCoreAPIMSSQL\NetCoreAPIMSSQL.Data\bin\Debug\net6.0\NetCoreAPIMSSQL.Data.pdb
+C:\Users\pc\source\repos\NetCoreAPIMSSQL\NetCoreAPIMSSQL.Data\obj\Debug\net6.0\NetCoreAPIMSSQL.Data.csproj.AssemblyReference.cache
+C:\Users\pc\source\repos\NetCoreAPIMSSQL\NetCoreAPIMSSQL.Data\obj\Debug\net6.0\NetCoreAPIMSSQL.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\source\repos\NetCoreAPIMSSQL\NetCoreAPIMSSQL.Data\obj\Debug\net6.0\NetCoreAPIMSSQL.Data.AssemblyInfoInputs.cache
+C:\Users\pc\source\repos\NetCoreAPIMSSQL\NetCoreAPIMSSQL.Data\obj\Debug\net6.0\NetCoreAPIMSSQL.Data.AssemblyInfo.cs
+C:\Users\pc\source\repos\NetCoreAPIMSSQL\NetCoreAPIMSSQL.Data\obj\Debug\net6.0\NetCoreAPIMSSQL.Data.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\NetCoreAPIMSSQL\NetCoreAPIMSSQL.Data\obj\Debug\net6.0\NetCoreAPIMSSQL.Data.dll
+C:\Users\pc\source\repos\NetCoreAPIMSSQL\NetCoreAPIMSSQL.Data\obj\Debug\net6.0\refint\NetCoreAPIMSSQL.Data.dll
+C:\Users\pc\source\repos\NetCoreAPIMSSQL\NetCoreAPIMSSQL.Data\obj\Debug\net6.0\NetCoreAPIMSSQL.Data.pdb
+C:\Users\pc\source\repos\NetCoreAPIMSSQL\NetCoreAPIMSSQL.Data\obj\Debug\net6.0\ref\NetCoreAPIMSSQL.Data.dll
+C:\Users\pc\source\repos\NetCoreAPIMSSQL\NetCoreAPIMSSQL.Data\bin\Debug\net6.0\NetCoreAPIMSSQL.Model.dll
+C:\Users\pc\source\repos\NetCoreAPIMSSQL\NetCoreAPIMSSQL.Data\bin\Debug\net6.0\NetCoreAPIMSSQL.Model.pdb
+C:\Users\pc\source\repos\NetCoreAPIMSSQL\NetCoreAPIMSSQL.Data\obj\Debug\net6.0\NetCoreAPIMSSQL.Data.csproj.CopyComplete
